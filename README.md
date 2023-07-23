@@ -1,7 +1,7 @@
 
 # Analiza Polskiego Rynku IT w 2023 roku (Stan 23 Lipca 2023)
 
-# by Rezix.  
+## by Rezix.  
   
 
   - [Angular](#angular)
