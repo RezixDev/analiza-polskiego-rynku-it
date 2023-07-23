@@ -151,9 +151,18 @@ Statystycznie, jeżeli twoim celem jest znalezienie pierwszej pracy w Polskim IT
 
 ![](https://lh6.googleusercontent.com/P4C-BFchpOkZqMR0TS_Oyn2KDFDH-luHFefXDqP_kgk722GmUmTJ2oX6xjhEzJOzNuadMMU3mJ7R4GBYTu_xp4j_k0HMOeyBbAJn55TMBD24AX9ROZR5dgrDLns0jcU6MMTO0uz52o5cM_-g_VYbrXg)
 
+## Analiza Ogólna 
+Ilość Stanowisk:
+
+Junior: 27
+Mid: 552
+Senior: 879
+
+Relacja początkujący, a doświadczeni programiści to:
+27 : 1431
+
 ## Bonus:  
   
-
 Jeżeli nie masz pojęcia o programowaniu, ale znasz się na komputerach i aplikacjach, a chciałbyś coś robić w przyszłości z Programowaniem to alternatywą by było na początek objąć stanowisko Testera/QA i potem z tego stanowiska przebranżowić się na Frontend.  
   
 Dziękuje Za uwagę.  
