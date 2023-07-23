@@ -161,6 +161,10 @@ Senior: 879
 Relacja początkujący, a doświadczeni programiści to:
 27 : 1431
 
+Procentowo to jest: 1.8%
+
+Prawie 2% Ofert Pracy stanowią stanowiska Juniorskie
+
 ## Bonus:  
   
 Jeżeli nie masz pojęcia o programowaniu, ale znasz się na komputerach i aplikacjach, a chciałbyś coś robić w przyszłości z Programowaniem to alternatywą by było na początek objąć stanowisko Testera/QA i potem z tego stanowiska przebranżowić się na Frontend.  
